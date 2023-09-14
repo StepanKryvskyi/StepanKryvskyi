@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StepanKryvskyi
-- 👀 I’m interested in Front-End Development)))
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m JS developer (React)
 - 💞️ I’m looking to collaborate on cool and interesting projects...
 - 📫 How to reach me? Text to me here krivszkijistvan@gmail.com
 
